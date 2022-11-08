@@ -20,9 +20,9 @@ author: Δημιουργήθηκε με εργαλεία ανοικτού, ελ�
 ###############################################
 
 navbar-links:
-  Επικοινωνία: "aboutme"
+  Επικοινωνια: "aboutme"
   Χρησιμοι Συνδεσμοι:
-    - Μητρωο Διαθεσιμων Μουσικων Οργανων: "https://cryptpad.fr/sheet/#/2/sheet/edit/2TcipkLrrb674topjl5MkKVS/embed/"
+    - Μητρωο Διαθεσιμων Μουσικων Οργανων: "404"
     - Διευθυνση Δευτεροβαθμιας Χανιων: "http://www.didechan.gr/"
     - Κ.Ε.Δ.Α.Σ.Υ Χανιων: "https://blogs.sch.gr/kesychan/"
     - Η Σελιδα του Μουσικου Σχολειου: "http://www.chaniamousiko.gr/"
@@ -247,7 +247,7 @@ timezone: "Europe/Athens"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 7
+paginate: 5
 
 kramdown:
   input: GFM

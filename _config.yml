@@ -13,20 +13,20 @@
 title: Σύλλογος Γονέων Μουσικού Σχολείου Χανίων
 
 # Your name to show in the footer
-author: Δημιουργήθηκε με εργαλεία ανοικτού ελεύθερου λογισμικού
+author: Δημιουργήθηκε με εργαλεία ανοικτού, ελεύθερου λογισμικού
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  Περι του Συλλογου: "aboutme"
+  Επικοινωνία: "aboutme"
   Χρησιμοι Συνδεσμοι:
     - Μητρωο Διαθεσιμων Μουσικων Οργανων: "https://cryptpad.fr/sheet/#/2/sheet/edit/2TcipkLrrb674topjl5MkKVS/embed/"
     - Διευθυνση Δευτεροβαθμιας Χανιων: "http://www.didechan.gr/"
     - Κ.Ε.Δ.Α.Σ.Υ Χανιων: "https://blogs.sch.gr/kesychan/"
     - Η Σελιδα του Μουσικου Σχολειου: "http://www.chaniamousiko.gr/"
-   
+    - Σελιδα για την ασφαλεια στο διαδικτυο: "https://saferinternet4kids.gr/yliko-gia-goneis/?age[]=for-parents&submit=%CE%91%CE%BD%CE%B1%CE%B6%CE%AE%CF%84%CE%B7%CF%83%CE%B7"
    
    
    
@@ -56,30 +56,22 @@ social-network-links:
   email: "syllogosmousikouchanion@gmail.com"
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: groups/goneis.mousikou.chanion
-#  github: daattali
-#  twitter: daattali
-#  patreon: DeanAttali
-#  youtube: c/daattali
+#  github: 
+#  twitter: yourname 
+#  patreon: yourname
+#  youtube: yourname
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+#  linkedin: yourname
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
+#  snapchat: yourname
+#  instagram: yourname
 #  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
+#  telephone: +1234567890
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
-#  discord: invite/invite_code or users/userid 
-#  kaggle: yourname
-#  hackerrank: yourname
+
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
@@ -101,7 +93,7 @@ share-links-active:
 # url-pretty: "MyWebsite.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
-excerpt_length: 40
+excerpt_length: 30
 
 # Whether or not to show an excerpt for every blog post in the feed page
 feed_show_excerpt: true

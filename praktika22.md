@@ -3,7 +3,7 @@ layout: post
 title: Αρχείο Πρακτικών Συνελεύσεων
 subtitle: Έτους 2022
 cover-img: /assets/img/path.jpg
-tags: [ Πρακτικά ]
+tags: [Πρακτικά]
 ---
 
 

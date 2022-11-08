@@ -21,7 +21,7 @@ subtitle:
 | Κοτσιφάκης Θρασύβουλος    | +30 698 734 6082      | [kotsifakis_th@proton.me](mailto:kotsifakis_th@proton.me)   |
 | Μακρέας Δημήτριος         | +30 697 899 3502      | ΤΒΑ                                                         |
 | Σταφυλλίδη Μαρία          | +30 697 099 1015      | [m.stafyllidou@gmail.com](mailto:m.stafyllidou@gmail.com)   |
-| Μαθιουδάκης Ιωάννης       | +30 698 189 2448      | [giannismathiou50@gmail.com] (mailto:giannismathiou50@gmail.com)                                                         |
+| Μαθιουδάκης Ιωάννης       | +30 698 189 2448      | [giannismathiou50@gmail.com](mailto:giannismathiou50@gmail.com)                                                         |
 | Ραγκούσης Αναστάσιος        | +30 694 581 8188      | ΤΒΑ                                                         | 
 
 

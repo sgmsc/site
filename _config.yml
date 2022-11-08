@@ -23,10 +23,10 @@ navbar-links:
   Επικοινωνια: "aboutme"
   Χρησιμοι Συνδεσμοι:
     - Μητρωο Διαθεσιμων Μουσικων Οργανων: "404"
-    - Διευθυνση Δευτεροβαθμιας Χανιων: "http://www.didechan.gr/"
-    - Κ.Ε.Δ.Α.Σ.Υ Χανιων: "https://blogs.sch.gr/kesychan/"
-    - Η Σελιδα του Μουσικου Σχολειου: "http://www.chaniamousiko.gr/"
-    - Σελιδα για την ασφαλεια στο διαδικτυο: "https://saferinternet4kids.gr/yliko-gia-goneis/?age[]=for-parents&submit=%CE%91%CE%BD%CE%B1%CE%B6%CE%AE%CF%84%CE%B7%CF%83%CE%B7"
+    - Διευθυνση Δευτεροβαθμιας Χανιων: "http://www.didechan.gr/"{:target="_blank" rel="noopener"}
+    - Κ.Ε.Δ.Α.Σ.Υ Χανιων: "https://blogs.sch.gr/kesychan/"{:target="_blank" rel="noopener"}
+    - Η Σελιδα του Μουσικου Σχολειου: "http://www.chaniamousiko.gr/"{:target="_blank" rel="noopener"}
+    - Σελιδα για την ασφαλεια στο διαδικτυο: "https://saferinternet4kids.gr/yliko-gia-goneis/?age[]=for-parents&submit=%CE%91%CE%BD%CE%B1%CE%B6%CE%AE%CF%84%CE%B7%CF%83%CE%B7"{:target="_blank" rel="noopener"}
    
    
    

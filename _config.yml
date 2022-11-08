@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Σύλλογος Γονέων Μουσικού Σχολείου Χανίων
+# title: Σύλλογος Γονέων Μουσικού Σχολείου Χανίων
 
 # Your name to show in the footer
 author: Δημιουργήθηκε με εργαλεία ανοικτού, ελεύθερου λογισμικού
@@ -51,7 +51,7 @@ navbar-links:
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
- title-img: "/assets/img/banner.png"
+title-img: "/assets/img/banner.png"
 
 
 #####################################

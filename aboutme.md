@@ -14,7 +14,7 @@ subtitle:
 [syllogosmousikouchanion@gmail.com](mailto:syllogosmousikouchanion@gmail.com)
 
 ή εναλλακτικά για κάποιο επείγον θέμα, απευθείας με κάποιο μέλος του Δ.Σ. στα  
-παρακάτω τηλέφωνα / email.  
+παρακάτω τηλέφωνα / email.   
 
 
 | Ονοματεπώνυμο Μέλους      | Τηλέφωνο Επικοινωνίας | email                                                       |

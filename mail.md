@@ -24,7 +24,7 @@ title:
 
 <p>Αυτά τα προσωπικά δεδομένα, τα οποία θα διατηρήσουμε για όσο διάστημα έχετε ένα ή περισσότερα παιδιά τα οποία φοιτούν στο σχολείο μας, δεν κοινοποιούνται και δεν μεταβιβάζονται σε τρίτους, ενώ τα μέλη του ΔΣ του Συλλόγου είναι υπεύθυνα για την συλλογή, φύλαξη και επεξεργασία τους.</p>
 
-<p>Σε περίπτωση που έχετε συναινέσει και <strong>δεν επιθυμείτε πλέον να λαμβάνετε ενημέρωση,</strong> έχετε το δικαίωμα να αποσύρετε τη συναίνεση σας χρησιμοποιώντας το σύνδεσμο <strong>unsubscribe<strong> στο κάτω μέρος των email μας.
+<p>Σε περίπτωση που <strong>δεν επιθυμείτε πλέον να λαμβάνετε ενημέρωση,</strong> έχετε το δικαίωμα να αποσύρετε τη συναίνεση σας χρησιμοποιώντας το σύνδεσμο <strong>unsubscribe</strong> στο κάτω μέρος των email μας.
 
 
 <p>ΣΕ ΠΕΡΙΠΤΩΣΗ ΛΑΘΟΥΣ 'Η ΑΛΛΟΥ ΠΡΟΒΛΗΜΑΤΟΣ, ΕΠΙΚΟΙΝΩΝΗΣΤΕ ΣΤΟ <a href="mailto:syllogosmousikouchanion@gmail.com">syllogosmousikouchanion@gmail.com</a></p>
@@ -177,9 +177,9 @@ title:
                 <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
             </div>
         </div>
-    </div>
-</form>
-</div>
+                     <!--</div>
+                    </form>
+                   </div> -->
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[7]='FNAME_KID1';ftypes[7]='text';fnames[5]='CLASS_KID1';ftypes[5]='dropdown';fnames[8]='FNAME_KID2';ftypes[8]='text';fnames[13]='CLASS_KID2';ftypes[13]='dropdown';fnames[9]='FNAME_KID3';ftypes[9]='text';fnames[11]='CLASS_KID3';ftypes[11]='dropdown';fnames[10]='LNAME_KIDM';ftypes[10]='text';fnames[12]='LNAME_KIDF';ftypes[12]='text';fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME_PRNT';ftypes[1]='text';fnames[2]='LNAME_PRNT';ftypes[2]='text';fnames[4]='PHONE1';ftypes[4]='phone';fnames[3]='PHONE2';ftypes[3]='phone';fnames[6]='PHONE3';ftypes[6]='phone'; /*
  * Translated default messages for the $ validation plugin.
  * Locale: EL

@@ -28,6 +28,9 @@ title:
 
 
 <p>ΣΕ ΠΕΡΙΠΤΩΣΗ ΛΑΘΟΥΣ 'Η ΑΛΛΟΥ ΠΡΟΒΛΗΜΑΤΟΣ, ΕΠΙΚΟΙΝΩΝΗΣΤΕ ΣΤΟ <a href="mailto:syllogosmousikouchanion@gmail.com">syllogosmousikouchanion@gmail.com</a></p>
+
+<p><a href="https://us19.campaign-archive.com/home/?u=2ddbbe754c40a4bddfe0b26cf&id=80cf631c1f" title="Προβολή Παλαιότερων Μηνυμάτων Λίστας">Προβολή Παλαιότερων Μηνυμάτων Λίστας.</a></p>
+
         <div class="indicates-required"><span class="asterisk"><strong>*</strong></span> <strong>ΥΠΟΧΡΕΩΤΙΚΟ ΠΕΔΙΟ</strong></div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Προσωπικό Email  <span class="asterisk">*</span>
@@ -149,19 +152,19 @@ title:
 	<span id="mce-PHONE2-HELPERTEXT" class="helper_text"></span>
 </div>
 <div class="mc-field-group input-group">
-    <strong>Email Format </strong>
-    <ul><li><input type="radio" value="html" name="EMAILTYPE" id="mce-EMAILTYPE-0"><label for="mce-EMAILTYPE-0">html</label></li>
-<li><input type="radio" value="text" name="EMAILTYPE" id="mce-EMAILTYPE-1"><label for="mce-EMAILTYPE-1">text</label></li>
+    <strong>Σε τι μορφή θέλετε να λαμβάνετε τα μηνύνατα μας; </strong>
+    <ul><li><input type="radio" value="html" name="EMAILTYPE" id="mce-EMAILTYPE-0"><label for="mce-EMAILTYPE-0">Εμπλουτισμένο κείμενο html</label></li>
+<li><input type="radio" value="text" name="EMAILTYPE" id="mce-EMAILTYPE-1"><label for="mce-EMAILTYPE-1">Απλό κείμενο (μικρότερος όγκος μηνύματος)</label></li>
 </ul>
 </div>
-<p><a href="https://us19.campaign-archive.com/home/?u=2ddbbe754c40a4bddfe0b26cf&id=80cf631c1f" title="View previous campaigns">Προβολή Παλαιότερων Μηνυμάτων Λίστας.</a></p>
+
 <div id="mergeRow-gdpr" class="mergeRow gdpr-mergeRow content__gdprBlock mc-field-group">
     <div class="content__gdpr">
         <label>ΔΗΛΩΣΗ ΣΥΝΑΙΝΕΣΗΣ</label>
 
 <p>Έχω ενημερωθεί για την παραπάνω επεξεργασία των προσωπικών μου δεδομένων και πληροφοριών και συναινώ στην επεξεργασία τους όπως ειδικά αναφέρεται παραπάνω:</p>
         <fieldset class="mc_fieldset gdprRequired mc-field-group" name="interestgroup_field">
-		<label class="checkbox subfield" for="gdpr_18331"><input type="checkbox" id="gdpr_18331" name="gdpr[18331]" value="Y" class="av-checkbox gdpr"><span>Συναινώ</span> </label>
+		<label class="checkbox subfield" for="gdpr_18331"><input type="checkbox" id="gdpr_18331" name="gdpr[18331]" value="Y" class="av-checkbox gdpr"><span><strong>Συναινώ</strong></span> </label>
         </fieldset>
         
  </div>

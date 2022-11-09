@@ -24,10 +24,10 @@ title:
 
 <p>Αυτά τα προσωπικά δεδομένα, τα οποία θα διατηρήσουμε για όσο διάστημα έχετε ένα ή περισσότερα παιδιά τα οποία φοιτούν στο σχολείο μας, δεν κοινοποιούνται και δεν μεταβιβάζονται σε τρίτους, ενώ τα μέλη του ΔΣ του Συλλόγου είναι υπεύθυνα για την συλλογή, φύλαξη και επεξεργασία τους.</p>
 
-<p>Σε περίπτωση που έχετε συναινέσει και <strong>δεν επιθυμείτε πλέον να λαμβάνετε ενημέρωση,</strong> έχετε το δικαίωμα να αποσύρετε τη συναίνεση σας χρησιμοποιώντας το σύνδεσμο <strong>unsubscribe<strong> στο κάτω μέρος των email μας.</p>
+<p>Σε περίπτωση που έχετε συναινέσει και <strong>δεν επιθυμείτε πλέον να λαμβάνετε ενημέρωση,</strong> έχετε το δικαίωμα να αποσύρετε τη συναίνεση σας χρησιμοποιώντας το σύνδεσμο <strong>unsubscribe<strong> στο κάτω μέρος των email μας.
 
 
-<p>ΣΕ ΠΕΡΙΠΤΩΣΗ ΛΑΘΟΥΣ 'Η ΑΛΛΟΥ ΠΡΟΒΛΗΜΑΤΟΣ, ΕΠΙΚΟΙΝΩΝΗΣΤΕ ΣΤΟ syllogosmousikouchanion@gmail.com</p>
+<p>ΣΕ ΠΕΡΙΠΤΩΣΗ ΛΑΘΟΥΣ 'Η ΑΛΛΟΥ ΠΡΟΒΛΗΜΑΤΟΣ, ΕΠΙΚΟΙΝΩΝΗΣΤΕ ΣΤΟ <a href="mailto:syllogosmousikouchanion@gmail.com">syllogosmousikouchanion@gmail.com</a></p>
         <div class="indicates-required"><span class="asterisk"><strong>*</strong></span> <strong>ΥΠΟΧΡΕΩΤΙΚΟ ΠΕΔΙΟ</strong></div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Προσωπικό Email  <span class="asterisk">*</span>
@@ -163,10 +163,10 @@ title:
         <fieldset class="mc_fieldset gdprRequired mc-field-group" name="interestgroup_field">
 		<label class="checkbox subfield" for="gdpr_18331"><input type="checkbox" id="gdpr_18331" name="gdpr[18331]" value="Y" class="av-checkbox gdpr"><span>Συναινώ</span> </label>
         </fieldset>
-        <p>Μπορείτε να διαγραφείτε από τη λίστα αυτή, χρησιμοποιώντας το σύνδεσμο (unsubscribe) στο κάτω μέρος των emails</p>
+        
     </div>
     <div class="content__gdprLegal">
-        <p>We use Mailchimp as our marketing platform. By clicking below to subscribe, you acknowledge that your information will be transferred to Mailchimp for processing. <a href="https://mailchimp.com/legal/terms" target="_blank">Learn more about Mailchimp's privacy practices here.</a></p>
+        <p>We use Mailchimp as our mailing database platform. By clicking below to subscribe, you acknowledge that your information will be transferred to Mailchimp for processing. <a href="https://mailchimp.com/legal/terms" target="_blank">Learn more about Mailchimp's privacy practices here.</a></p>
     </div>
 </div>
 	<div id="mce-responses" class="clear foot">

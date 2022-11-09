@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Εγγραφή 
+title:  
 ---
 
 <!-- Begin Mailchimp Signup Form -->
@@ -20,7 +20,15 @@ title: Εγγραφή
     <form action="https://chaniamousiko.us19.list-manage.com/subscribe/post?u=2ddbbe754c40a4bddfe0b26cf&amp;id=80cf631c1f&amp;v_id=4372&amp;f_id=00ab99e4f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
         <div id="mc_embed_signup_scroll">
         <h2>Εγγραφή στην λίστα αλληλογραφίας του Συλλόγου Γονέων/Κηδεμόνων Μουσικού Σχολείου Χανίων</h2>
-        <div class="indicates-required"><span class="asterisk">*</span> ΥΠΟΧΡΕΩΤΙΚΟ ΠΕΔΙΟ</div>
+		        <p>Προκειμένου να σας παράσχουμε ενημέρωση σχετικά με τις δραστηριότητες του Συλλόγου μας και γενικότερα για θέματα που αφορούν τους γονείς και κηδεμόνες του Μουσικού Σχολείου Χανίων, σας ζητούμε, εφόσον το επιθυμείτε, να μας υποβάλετε ορισμένα προσωπικά σας δεδομένα (ονοματεπώνυμο, email, αριθμό τηλεφώνου, στοιχεία μαθητή/τριας), συμπληρώνοντας την δήλωση συγκατάθεσης.</p>
+
+<p>Αυτά τα προσωπικά δεδομένα, τα οποία θα διατηρήσουμε για όσο διάστημα έχετε ένα ή περισσότερα παιδιά τα οποία φοιτούν στο σχολείο μας, δεν κοινοποιούνται και δεν μεταβιβάζονται σε τρίτους, ενώ τα μέλη του ΔΣ του Συλλόγου είναι υπεύθυνα για την συλλογή, φύλαξη και επεξεργασία τους.</p>
+
+<p>Σε περίπτωση που έχετε συναινέσει και <strong>δεν επιθυμείτε πλέον να λαμβάνετε ενημέρωση,</strong> έχετε το δικαίωμα να αποσύρετε τη συναίνεση σας χρησιμοποιώντας το σύνδεσμο <strong>unsubscribe<strong> στο κάτω μέρος των email μας.</p>
+
+
+<p>ΣΕ ΠΕΡΙΠΤΩΣΗ ΛΑΘΟΥΣ 'Η ΑΛΛΟΥ ΠΡΟΒΛΗΜΑΤΟΣ, ΕΠΙΚΟΙΝΩΝΗΣΤΕ ΣΤΟ syllogosmousikouchanion@gmail.com</p>
+        <div class="indicates-required"><span class="asterisk"><strong>*</strong></span> <strong>ΥΠΟΧΡΕΩΤΙΚΟ ΠΕΔΙΟ</strong></div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Προσωπικό Email  <span class="asterisk">*</span>
 </label>
@@ -146,21 +154,10 @@ title: Εγγραφή
 <li><input type="radio" value="text" name="EMAILTYPE" id="mce-EMAILTYPE-1"><label for="mce-EMAILTYPE-1">text</label></li>
 </ul>
 </div>
-<p><a href="https://us19.campaign-archive.com/home/?u=2ddbbe754c40a4bddfe0b26cf&id=80cf631c1f" title="View previous campaigns">View previous campaigns.</a></p>
+<p><a href="https://us19.campaign-archive.com/home/?u=2ddbbe754c40a4bddfe0b26cf&id=80cf631c1f" title="View previous campaigns">Προβολή Παλαιότερων Μηνυμάτων Λίστας.</a></p>
 <div id="mergeRow-gdpr" class="mergeRow gdpr-mergeRow content__gdprBlock mc-field-group">
     <div class="content__gdpr">
         <label>ΔΗΛΩΣΗ ΣΥΝΑΙΝΕΣΗΣ</label>
-        <p>Προκειμένου να σας παράσχουμε ενημέρωση σχετικά με τις δραστηριότητες του Συλλόγου μας και γενικότερα για θέματα που αφορούν τους γονείς και κηδεμόνες του Μουσικού Σχολείου Χανίων, σας ζητούμε, εφόσον το επιθυμείτε, να μας υποβάλετε ορισμένα προσωπικά σας δεδομένα (ονοματεπώνυμο, email, αριθμό τηλεφώνου, στοιχεία μαθητή/τριας), συμπληρώνοντας την δήλωση συγκατάθεσης.
-
-Αυτά τα προσωπικά δεδομένα, τα οποία θα διατηρήσουμε για όσο διάστημα έχετε ένα ή περισσότερα παιδιά τα οποία φοιτούν στο σχολείο μας, δεν κοινοποιούνται και δεν μεταβιβάζονται σε τρίτους, ενώ τα μέλη του ΔΣ του Συλλόγου είναι υπεύθυνα για την συλλογή, φύλαξη και επεξεργασία τους.
-
-Σε περίπτωση που έχετε συναινέσει και δεν επιθυμείτε πλέον να λαμβάνετε ενημέρωση, έχετε το δικαίωμα να αποσύρετε τη συναίνεση σας χρησιμοποιώντας το σύνδεσμο (unsubscribe) στο κάτω μέρος των email μας.
-
-Συμπληρώστε τη φόρμα με ΚΕΦΑΛΑΙΑ ΕΛΛΗΝΙΚΑ.  
-
-
-ΣΕ ΠΕΡΙΠΤΩΣΗ ΛΑΘΟΥΣ 'Η ΑΛΛΟΥ ΠΡΟΒΛΗΜΑΤΟΣ, ΕΠΙΚΟΙΝΩΝΗΣΤΕ ΣΤΟ syllogosmousikouchanion@gmail.com</p>
-
 
 <p>Έχω ενημερωθεί για την παραπάνω επεξεργασία των προσωπικών μου δεδομένων και πληροφοριών και συναινώ στην επεξεργασία τους όπως ειδικά αναφέρεται παραπάνω:</p>
         <fieldset class="mc_fieldset gdprRequired mc-field-group" name="interestgroup_field">

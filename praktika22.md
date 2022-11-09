@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Αρχείο Πρακτικών Συνελεύσεων
 subtitle: Έτους 2022
 cover-img: /assets/img/path.jpg

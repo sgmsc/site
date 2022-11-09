@@ -164,10 +164,8 @@ title:
 		<label class="checkbox subfield" for="gdpr_18331"><input type="checkbox" id="gdpr_18331" name="gdpr[18331]" value="Y" class="av-checkbox gdpr"><span>Συναινώ</span> </label>
         </fieldset>
         
-    </div>
-    <div class="content__gdprLegal">
-        <p>We use Mailchimp as our mailing database platform. By clicking below to subscribe, you acknowledge that your information will be transferred to Mailchimp for processing. <a href="https://mailchimp.com/legal/terms" target="_blank">Learn more about Mailchimp's privacy practices here.</a></p>
-    </div>
+ </div>
+   
 </div>
 	<div id="mce-responses" class="clear foot">
 		<div class="response" id="mce-error-response" style="display:none"></div>
@@ -177,7 +175,6 @@ title:
         <div class="optionalParent">
             <div class="clear foot">
                 <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
-                <p class="brandingLogo"><a href="http://eepurl.com/idc5wn" title="Mailchimp - email marketing made easy and fun"><img src="https://eep.io/mc-cdn-images/template_images/branding_logo_text_dark_dtp.svg"></a></p>
             </div>
         </div>
     </div>

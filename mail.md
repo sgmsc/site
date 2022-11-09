@@ -39,6 +39,29 @@ title:
 	<span id="mce-EMAIL-HELPERTEXT" class="helper_text">Παρακαλώ, αποφύγετε να καταχωρήσετε το email της εργασίας σας</span>
 </div>
 <div class="mc-field-group">
+	<label for="mce-FNAME_PRNT">Όνομα Γονέα  <span class="asterisk">*</span>
+</label>
+	<input type="text" value="" name="FNAME_PRNT" class="required" id="mce-FNAME_PRNT" required>
+	<span id="mce-FNAME_PRNT-HELPERTEXT" class="helper_text"></span>
+</div>
+<div class="mc-field-group">
+	<label for="mce-LNAME_PRNT">Επώνυμο Γονέα  <span class="asterisk">*</span>
+</label>
+	<input type="text" value="" name="LNAME_PRNT" class="required" id="mce-LNAME_PRNT" required>
+	<span id="mce-LNAME_PRNT-HELPERTEXT" class="helper_text"></span>
+</div>
+<div class="mc-field-group size1of2">
+	<label for="mce-PHONE1">Τηλέφωνο - 1  <span class="asterisk">*</span>
+</label>
+	<input type="text" name="PHONE1" class="required" value="" id="mce-PHONE1" required>
+	<span id="mce-PHONE1-HELPERTEXT" class="helper_text"></span>
+</div>
+<div class="mc-field-group size1of2">
+	<label for="mce-PHONE2">Τηλέφωνο - 2 </label>
+	<input type="text" name="PHONE2" class="" value="" id="mce-PHONE2">
+	<span id="mce-PHONE2-HELPERTEXT" class="helper_text"></span>
+</div>
+<div class="mc-field-group">
 	<label for="mce-FNAME_KID1">Όνοματεπώνυμο Μαθητή (1)  <span class="asterisk">*</span>
 </label>
 	<input type="text" value="" name="FNAME_KID1" class="required" id="mce-FNAME_KID1" required>
@@ -99,7 +122,6 @@ title:
 <option value="Α2 ΛΥΚΕΙΟΥ">Α2 ΛΥΚΕΙΟΥ</option>
 <option value="Β ΛΥΚΕΙΟΥ">Β ΛΥΚΕΙΟΥ</option>
 <option value="Γ ΛΥΚΕΙΟΥ">Γ ΛΥΚΕΙΟΥ</option>
-
 	</select>
 	<span id="mce-CLASS_KID2-HELPERTEXT" class="helper_text"></span>
 </div>
@@ -124,37 +146,14 @@ title:
 <option value="Α2 ΛΥΚΕΙΟΥ">Α2 ΛΥΚΕΙΟΥ</option>
 <option value="Β ΛΥΚΕΙΟΥ">Β ΛΥΚΕΙΟΥ</option>
 <option value="Γ ΛΥΚΕΙΟΥ">Γ ΛΥΚΕΙΟΥ</option>
-
 	</select>
 	<span id="mce-CLASS_KID3-HELPERTEXT" class="helper_text"></span>
 </div>
-<div class="mc-field-group">
-	<label for="mce-FNAME_PRNT">Όνομα Γονέα  <span class="asterisk">*</span>
-</label>
-	<input type="text" value="" name="FNAME_PRNT" class="required" id="mce-FNAME_PRNT" required>
-	<span id="mce-FNAME_PRNT-HELPERTEXT" class="helper_text"></span>
-</div>
-<div class="mc-field-group">
-	<label for="mce-LNAME_PRNT">Επώνυμο Γονέα  <span class="asterisk">*</span>
-</label>
-	<input type="text" value="" name="LNAME_PRNT" class="required" id="mce-LNAME_PRNT" required>
-	<span id="mce-LNAME_PRNT-HELPERTEXT" class="helper_text"></span>
-</div>
-<div class="mc-field-group size1of2">
-	<label for="mce-PHONE1">Τηλέφωνο - 1  <span class="asterisk">*</span>
-</label>
-	<input type="text" name="PHONE1" class="required" value="" id="mce-PHONE1" required>
-	<span id="mce-PHONE1-HELPERTEXT" class="helper_text"></span>
-</div>
-<div class="mc-field-group size1of2">
-	<label for="mce-PHONE2">Τηλέφωνο - 2 </label>
-	<input type="text" name="PHONE2" class="" value="" id="mce-PHONE2">
-	<span id="mce-PHONE2-HELPERTEXT" class="helper_text"></span>
-</div>
+
 <div class="mc-field-group input-group">
     <strong>Σε τι μορφή θέλετε να λαμβάνετε τα μηνύνατα μας; </strong>
-    <ul><li><input type="radio" value="html" name="EMAILTYPE" id="mce-EMAILTYPE-0"><label for="mce-EMAILTYPE-0">Εμπλουτισμένο κείμενο html</label></li>
-<li><input type="radio" value="text" name="EMAILTYPE" id="mce-EMAILTYPE-1"><label for="mce-EMAILTYPE-1">Απλό κείμενο (μικρότερος όγκος μηνύματος)</label></li>
+    <ul><li><input type="radio" value="html" name="EMAILTYPE" id="mce-EMAILTYPE-0"><label for="mce-EMAILTYPE-0"> Εμπλουτισμένο κείμενο html</label></li>
+<li><input type="radio" value="text" name="EMAILTYPE" id="mce-EMAILTYPE-1"><label for="mce-EMAILTYPE-1"> Απλό κείμενο (μικρότερος όγκος μηνύματος)</label></li>
 </ul>
 </div>
 

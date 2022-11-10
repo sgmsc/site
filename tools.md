@@ -2,7 +2,7 @@
 layout: page
 ---
 
-
+###  Εργαλεία που χρησιμοποιήθηκαν για την δημιουργία της σελίδας
 
 
 [Neovim VI Style Editor](https://github.com/neovim/neovim)  για την χειροκίνητη επεξεργασία του κώδικα.
@@ -19,7 +19,7 @@ layout: page
 
 
 
-
+Περισσότερα για το ελεύθερο λογισμικό: [Free Software Foundation](https://www.fsf.org/resources/)
 
 
 

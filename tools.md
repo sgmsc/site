@@ -1,10 +1,8 @@
 ---
-layout: page
+layout: minimal
 ---
 
 
-
-### Εργαλεία που χρησιμοποιήθηκαν για την δημιουργία της ιστοσελίδας:
 
 
 [Neovim VI Style Editor](https://github.com/neovim/neovim)  για την χειροκίνητη επεξεργασία του κώδικα.

@@ -210,11 +210,11 @@ footer-hover-col: "#0085A1"
 #theme: github-light # Utterances theme
 #label: Σχόλια # Label that will be assigned to GitHub Issues created by Utterances
 <script src="https://utteranc.es/client.js"
-        repo="sgmsc/site/"
-        issue-term="title"
-        label="Σχολιάστε"
-        theme="github-light"
-        crossorigin="anonymous"
+        repo:"sgmsc/site/"
+        issue-term:"title"
+        label:"Σχολιάστε"
+        theme:"github-light"
+        crossorigin:"anonymous"
         async>
 </script>
 

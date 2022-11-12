@@ -23,13 +23,13 @@ navbar-links:
     Μητρωο Διαθεσιμων Μουσικων Οργανων: "reg"
     
     Πρακτικα Συνελευσεων:
-    - Πρακτικα.2021: "praktika21"
-    - Πρακτικα.2022: "praktika22"
+    - Πρακτικα.2021: "/assets/praktika/praktika21"
+    - Πρακτικα.2022: "/assets/praktika/praktika22"
     
     Οικονομικος Απολογισμος:
-    - β' εξαμηνο 2021: "b2021"
-    - α' εξαμηνο 2022: "a2022"
-    - β' εξαμηνο 2022: "b2022"
+    - β' εξαμηνο 2021: "/assets/oikonomika/b2021"
+    - α' εξαμηνο 2022: "/assets/oikonomika/a2022"
+    - β' εξαμηνο 2022: "/assets/oikonomika/b2022"
     - φορμα μητρωου: "reg"
 
     Επικοινωνια: "aboutme"
@@ -125,7 +125,7 @@ edit_page_button: false
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "μουσικό,χανιά,σχολείο"
+keywords: "μουσικό,χανιά,σχολείο,σύλλογος,γονέων"
 
 ######################################
 # --- Colours / background image --- #

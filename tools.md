@@ -16,7 +16,6 @@ title: Εργαλεία που χρησιμοποιήθηκαν για την κ
 
 [Git Version Control System](https://git-scm.com/) Για την παρακολούθηση των αλλαγών κατά τη δημιουργία της σελίδας.
 
-[Git Extensions](https://gitextensions.github.io/) Γραφική Διεπαφή (graphical frontend) για το git
 
 [Github Pages](https://pages.github.com/) Για την φιλοξενία της σελίδας.
 

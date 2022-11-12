@@ -205,10 +205,19 @@ footer-hover-col: "#0085A1"
 # (3) Install the Utterances app in your repository https://github.com/apps/utterances
 # See more details about the parameters below at https://utteranc.es/
 #utterances:
-repository: "sgmsc/site" # GitHub username/repository
-issue-term: title   # Mapping between blog posts and GitHub issues
+#repository: "sgmsc/site" # GitHub username/repository
+#issue-term: title   # Mapping between blog posts and GitHub issues
 #theme: github-light # Utterances theme
-label: Σχόλια # Label that will be assigned to GitHub Issues created by Utterances
+#label: Σχόλια # Label that will be assigned to GitHub Issues created by Utterances
+<script src="https://utteranc.es/client.js"
+        repo="sgmsc/site/"
+        issue-term="title"
+        label="Σχολιάστε"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+
 
 # To use Staticman comments, uncomment the following section. You may leave the reCaptcha
 # section commented if you aren't using reCaptcha for spam protection. 

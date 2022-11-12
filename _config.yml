@@ -205,10 +205,10 @@ footer-hover-col: "#0085A1"
 # (3) Install the Utterances app in your repository https://github.com/apps/utterances
 # See more details about the parameters below at https://utteranc.es/
 utterances:
-        repository:"sgmsc/site"
-        issue-term:"title"
-        label:"Σχολιάστε"
-        theme:"github-light"
+        repository: "sgmsc/site"
+        issue-term: "title"
+        label: "Σχολιάστε"
+        theme: "github-light"
 
 #repository: "sgmsc/site" # GitHub username/repository
 #issue-term: title   # Mapping between blog posts and GitHub issues

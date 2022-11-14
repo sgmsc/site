@@ -5,4 +5,4 @@ subtitle:
 cover-img: /assets/img/suf.webp
 ---
 
-<object data="/assets/pdf/voting.pdf" width="1000" height="1420" type='application/pdf'></object>
+<iframe src="https://drive.google.com/file/d/1t07UgaOz6Ocjc8F-c6Tr5sFF213KfxEh/preview" width="900" height="1155" allow="autoplay"></iframe>

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Calendar
+title: Το Ημερoλόγιο του Συλλόγου
 weight : 98
 ---
 

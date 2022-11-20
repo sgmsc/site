@@ -5,7 +5,7 @@ subtitle: Ο Μύθος και η Αλήθεια
 cover-img: /assets/img/books.webp
 ---
 
-Inline-style: 
+
 ![Η Μαγεία της Πραγματικότητας](assets/img/dawk_magic.jpg "(εξώφυλλο)")
 
 

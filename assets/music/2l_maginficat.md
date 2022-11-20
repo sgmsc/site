@@ -8,7 +8,8 @@ cover-img: /assets/img/music.webp
 
 ## Η φωνή των αγγέλων στα ηχεία σας.
 
-![Magnificat](/assets/img/magn_cover.jpg)
+  <img src="/assets/img/magn_cover.jpg" alt="MAGNIFICAT - Nidarosdomens jentekor - TrondheimSolistene" style="width:250px;height:250px;">
+
 
 
 <img src="https://images.ctfassets.net/4zjnzn055a4v/v5Fr54wzuQU0Qnk0Sqg3H/42ccacd6ab8f5686d4e2034c050d4ac2/Morten_Lindberg_PR_Image_1.jpg?w=1250&fm=jpg" alt="2L Mastering Studio">

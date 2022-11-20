@@ -6,5 +6,7 @@ subtitle:
 
 ## Μουσικές που μας έκαναν εντύπωση.
 
+ <a href="/music/2l_maginficat">
+  <img src="/assets/img/magn_cover.jpg" alt="MAGNIFICAT - Nidarosdomens jentekor - TrondheimSolistene" style="width:300px;height:300px;">
+</a> 
 
-[MAGNIFICAT - Nidarosdomens jentekor - TrondheimSolistene]("/music/2l_maginficat")  ![ ](/assets/img/magn_cover.jpg)

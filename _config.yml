@@ -24,8 +24,8 @@ navbar-links:
     Ημερολογιο: "calendar"
 
     Κουλτουρα Να Φυγουμε:
-    - Βιβλια: "books"
-    - μουσικη: "music"
+    - Βιβλια: "/assets/pages/books"
+    - μουσικη: "/assets/pages/music"
 
     Πρακτικα Συνελευσεων:
     - Πρακτικα.2021: "/assets/praktika/praktika21"

@@ -2,10 +2,15 @@
 layout: page
 title: Βιβλιοπαρουσιάσεις
 subtitle: 
+cover-img: /assets/img/books.webp
 ---
 
 
-Εδώ θα φιλοξενούμε παρουσιάσεις βιβλίων που μας έκαναν εντύπωση και που πιστεύουμε ότι μέσα στο χάος της πληροφόρισης, έχουν να προσφέρουν ουσιαστική γνώση ή ικανοποίηση σ' εμάς ή τα παιδιά μας.
 
+ 
+<p style="text-align:center;">
+ <a href="/assets//books/dawkins_magic">Richard Dawkins - Η Μαγεία της Πραγματικότητας</a>
+ <a href="/assets//books/dawkins_magic">
+  <img src="/assets/img/dawk_magic.jpg" alt="Richard Dawkins - Η Μαγεία της Πραγματικότητας" style="width:350px;height:350px;"></a>
+ </p>
 
-[Η Μαγεία της Πραγματικότητας - Richard Dawkins:]("/assets/books/dawkins_magic")

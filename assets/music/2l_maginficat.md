@@ -6,7 +6,7 @@ cover-img: /assets/img/magn_cover.jpg
 ---
 
 <p style="text-align:center;">
- <img src="/assets/img/magn_cover.jpg" alt="MAGNIFICAT - Nidarosdomens jentekor - TrondheimSolistene" style="width:350px;height:350px;">
+ <img src="https://sgmsc.github.io/site/assets/img/magn_cover.jpg" alt="MAGNIFICAT - Nidarosdomens jentekor - TrondheimSolistene" style="width:350px;height:350px;">
 </p>
 
 
@@ -26,7 +26,7 @@ Kατά καιρούς οι ηχογραφήσεις της έχουν βρεθ�
 
 <div class="img-with-text">
 <p style="text-align:center;">
-<img src="/assets/img/choir.webp" alt="Στιγμιότυπο από την ηχογράφηση" style="width:580px;height:380px;"></p>
+<img src="https://sgmsc.github.io/site/assets/img/choir.webp" alt="Στιγμιότυπο από την ηχογράφηση" style="width:580px;height:380px;"></p>
 <p style="text-align:center;"> <em> Στιγμιότυπο από την ηχογράφηση </em> </p>
 </div>
 
@@ -39,11 +39,11 @@ Kατά καιρούς οι ηχογραφήσεις της έχουν βρεθ�
 
 ή να την ακούσετε εδώ: 
 <p style="text-align:left;">
-  <img src="/assets/img/spotify.png" alt="Ακούστε στο Spotify" style="float:left;width:26px;height:26px;">
+  <img src="https://sgmsc.github.io/site/assets/img/spotify.png" alt="Ακούστε στο Spotify" style="float:left;width:26px;height:26px;">
   <a href="https://open.spotify.com/album/15fzAFOBebAi8U1q3rhsnC" target="_blank">  &nbsp;&nbsp;Spotify (απαιτείται δωρεάν εγγραφή στην υπηρεσία) </a>
 </p>
 
 <p>
-  <img src="/assets/img/tidal.png" alt="Ακούστε στο Tidal" style="float:left;width:26px;height:26px;">
+  <img src="https://sgmsc.github.io/site/assets/img/tidal.png" alt="Ακούστε στο Tidal" style="float:left;width:26px;height:26px;">
   <a href="https://tidal.com/" target="_blank">  &nbsp;&nbsp;Tidal (απαιτείται συνδρομή) </a>
 </p>

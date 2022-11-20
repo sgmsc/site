@@ -24,7 +24,7 @@ navbar-links:
     Ημερολογιο: "calendar"
 
     Κουλτουρα Να Φυγουμε:
-    - Βιβλια: "/assets/pages/books"
+    - Βιβλια: "/assets/pages/biblia"
     - μουσικη: "/assets/pages/music"
 
     Πρακτικα Συνελευσεων:

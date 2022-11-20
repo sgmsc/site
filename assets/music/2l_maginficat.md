@@ -11,15 +11,16 @@ cover-img: /assets/img/music.webp
   <img src="/assets/img/magn_cover.jpg" alt="MAGNIFICAT - Nidarosdomens jentekor - TrondheimSolistene" style="width:350px;height:350px;">
 
 
-
-<img src="https://images.ctfassets.net/4zjnzn055a4v/v5Fr54wzuQU0Qnk0Sqg3H/42ccacd6ab8f5686d4e2034c050d4ac2/Morten_Lindberg_PR_Image_1.jpg?w=1250&fm=jpg" alt="2L Mastering Studio" style="width:200px;height:200px;">
+<p style="text-align:center;">
+<img src="https://images.ctfassets.net/4zjnzn055a4v/v5Fr54wzuQU0Qnk0Sqg3H/42ccacd6ab8f5686d4e2034c050d4ac2/Morten_Lindberg_PR_Image_1.jpg?w=1250&fm=jpg" alt="2L Mastering Studio" style="width:300px;height:300px;"> </p>
 
 Η 2L είναι μία δισκογραφική εταιρία από την Νορβηγία με ένα από τα πλέον σύγχρονα και εντυπωσιακά στούντιο στον κόσμο.
 Kατά καιρούς οι ηχογραφήσεις της έχουν βρεθεί υποψήφιες και νικήτριες για διάφορα μουσικά βραβεία ενώ έχει τιμηθεί αρκετές φορές με βραβεία grammy.
 Η ηχογράφηση που παρουσιάζουμε εδώ, έχει γίνει το 2014 στον καθεδρικό της Νορβηγικής πόλης Nidaros και προτάθηκε για το καλύτερο άλμπουμ ήχου Surround το 2015 
 
-<img src="/assets/img/choir.webp" alt="Στιγμιότυπο από την ηχογράφηση" style="width:200px;height:200px;">
-![Στιγμιότυπο από την ηχογράφηση](/assets/img/choir.webp "Στιγμιότυπο από την ηχογράφηση")
+<p style="text-align:center;">
+<img src="/assets/img/choir.webp" alt="Στιγμιότυπο από την ηχογράφηση" style="width:200px;height:200px;"> </p>
+
 
 Χρησιμοποιώντας πρωτοποριακές μεθόδους ηχογράφησης και mastering για να αποδοθεί ρεαλιστικά ο όγκος του ήχου της χορωδίας μέσα στον καθεδρικό το αποτέλεσμα μπορεί να χαρακτηριστεί μόνο ως μεγαλειώδες.
 

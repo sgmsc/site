@@ -30,7 +30,7 @@ Kατά καιρούς οι ηχογραφήσεις της έχουν βρεθ�
 
 ή να την ακούσετε εδώ: 
 
-<p href="https://open.spotify.com/album/15fzAFOBebAi8U1q3rhsnC" target="_blank">Spotify (απαιτείται δωρεάν εγγραφή στην υπηρεσία)</p>
-<p href="https://tidal.com/" target="_blank">Tidal (απαιτείται συνδρομή)</p>
+<p <a href="https://open.spotify.com/album/15fzAFOBebAi8U1q3rhsnC" target="_blank">Spotify (απαιτείται δωρεάν εγγραφή στην υπηρεσία)  </a></p>
+<p <a href="https://tidal.com/" target="_blank">Tidal (απαιτείται συνδρομή) </a></p>
 
 

@@ -132,7 +132,7 @@ edit_page_button: false
 # Allow sub-menu items (second-level navigation menu items) to be longer than the top-level menu
 # If this setting is off, then long sub-menu words might get cut off
 
-navbar-var-length: true
+navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
 keywords: "μουσικό,χανιά,σχολείο,σύλλογος,γονέων,συλλογος γονεων μουσικου σχολειου χανιων"

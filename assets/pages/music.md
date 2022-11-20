@@ -7,4 +7,4 @@ subtitle:
 ## Μουσικές που μας έκαναν εντύπωση.
 
 
-[MAGNIFICAT - Nidarosdomens jentekor & TrondheimSolistene]("assets/music/2l_maginficat") ![ ](/assets/img/magn_cover.jpg)
+[MAGNIFICAT - Nidarosdomens jentekor & TrondheimSolistene]("music/2l_maginficat") ![ ](/assets/img/magn_cover.jpg)

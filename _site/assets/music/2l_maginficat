@@ -24,13 +24,13 @@
 
   
 
-  <title>Το νέο Δ.Σ. του Συλλογου γονέων</title>
+  <title>Magnificat</title>
 
   
   <meta name="author" content="Δημιουργήθηκε με εργαλεία ανοικτού, ελεύθερου λογισμικού">
   
 
-  <meta name="description" content="Εκλογική Διαδικασία Οκτώβρη 2022">
+  <meta name="description" content="Nidarosdomens jentekor &amp; TrondheimSolistene">
 
   
 
@@ -91,19 +91,17 @@
 
   
   <meta property="og:site_name" content="Σύλλογος Γονέων Μουσικού Σχολείου Χανίων">
-  <meta property="og:title" content="Το νέο Δ.Σ. του Συλλογου γονέων">
-  <meta property="og:description" content="Εκλογική Διαδικασία Οκτώβρη 2022">
+  <meta property="og:title" content="Magnificat">
+  <meta property="og:description" content="Nidarosdomens jentekor &amp; TrondheimSolistene">
 
   
-  <meta property="og:image" content="http://localhost:4000/assets/img/Django.png">
+  <meta property="og:image" content="http://localhost:4000/assets/img/music.webp">
   
 
   
-  <meta property="og:type" content="article">
-  <meta property="og:article:author" content="Δημιουργήθηκε με εργαλεία ανοικτού, ελεύθερου λογισμικού">
-  <meta property="og:article:published_time" content="2022-10-24T00:00:00+00:00">
-  <meta property="og:url" content="http://localhost:4000/2022-10-24-%CE%A4%CE%BF-%CE%BD%CE%AD%CE%BF-%CE%94.%CE%A3.-%CF%84%CE%BF%CF%85-%CE%A3%CF%85%CE%BB%CE%BB%CE%BF%CE%B3%CE%BF%CF%85-%CE%B3%CE%BF%CE%BD%CE%AD%CF%89%CE%BD/">
-  <link rel="canonical" href="http://localhost:4000/2022-10-24-%CE%A4%CE%BF-%CE%BD%CE%AD%CE%BF-%CE%94.%CE%A3.-%CF%84%CE%BF%CF%85-%CE%A3%CF%85%CE%BB%CE%BB%CE%BF%CE%B3%CE%BF%CF%85-%CE%B3%CE%BF%CE%BD%CE%AD%CF%89%CE%BD/">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="http://localhost:4000/assets/music/2l_maginficat">
+  <link rel="canonical" href="http://localhost:4000/assets/music/2l_maginficat">
   
 
   
@@ -112,11 +110,11 @@
   <meta name="twitter:site" content="@">
   <meta name="twitter:creator" content="@">
 
-  <meta property="twitter:title" content="Το νέο Δ.Σ. του Συλλογου γονέων">
-  <meta property="twitter:description" content="Εκλογική Διαδικασία Οκτώβρη 2022">
+  <meta property="twitter:title" content="Magnificat">
+  <meta property="twitter:description" content="Nidarosdomens jentekor &amp; TrondheimSolistene">
 
   
-  <meta name="twitter:image" content="http://localhost:4000/assets/img/Django.png">
+  <meta name="twitter:image" content="http://localhost:4000/assets/img/music.webp">
   
 
   
@@ -408,7 +406,7 @@
     
     
       
-      data-img-src-1="http://localhost:4000/assets/img/Django.png"
+      data-img-src-1="http://localhost:4000/assets/img/music.webp"
     
     
     
@@ -422,15 +420,15 @@
     <div class="row">
       <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
         <div class="post-heading">
-          <h2>Το νέο Δ.Σ. του Συλλογου γονέων</h2>
+          <h2>Magnificat</h2>
           
             
-              <h3 class="post-subheading">Εκλογική Διαδικασία Οκτώβρη 2022</h3>
+              <h3 class="post-subheading">Nidarosdomens jentekor & TrondheimSolistene</h3>
             
           
 
           
-            <span class="post-meta">Posted on October 24, 2022</span>
+            <span class="post-meta">Posted on </span>
             
             
           
@@ -446,15 +444,15 @@
     <div class="row">
       <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
         <div class="post-heading">
-          <h1>Το νέο Δ.Σ. του Συλλογου γονέων</h1>
+          <h1>Magnificat</h1>
           
             
-              <h2 class="post-subheading">Εκλογική Διαδικασία Οκτώβρη 2022</h2>
+              <h2 class="post-subheading">Nidarosdomens jentekor & TrondheimSolistene</h2>
             
           
 
           
-            <span class="post-meta">Posted on October 24, 2022</span>
+            <span class="post-meta">Posted on </span>
             
             
           
@@ -478,112 +476,46 @@
       
 
       <article role="main" class="blog-post">
-        <p>Μετά την ολοκλήρωση της εκλογικής διαδικασίας της /10/2022 τα νέα μέλη που εκλέγονται για την εκπροσώπηση του Συλλογου είναι:</p>
-<ul>
-  <li>Μπατάκης Διομήδης</li>
-  <li>Αγγελάκη Κουκουλάκη Ελένη</li>
-  <li>Κοτσιφάκης Θρασύβουλος</li>
-  <li>Μακρέας Δημήτριος</li>
-  <li>Σταφυλλίδη Μαρία</li>
-  <li>Μαθιουδάκης Ιωάννης</li>
-  <li>Ραγκούσης Αναστάσιος</li>
-</ul>
+        ### Η φωνή των αγγέλων στα ηχεία σας.
 
-<p>Ως Αντιπρόσωποι για την Ένωση Συλλόγων Γονέων και Κηδεμόνων Δήμου Χανίων εκλέχθηκαν οι:</p>
-<ul>
-  <li>Μπατάκης Διομήδης</li>
-  <li>Νικολακάκης Μάνθος</li>
-  <li>Σταφυλλίδη Μαρία</li>
-</ul>
+![Magnificat](assets/img/magn_cover.jpg)
 
-<p>Ως Αντιπρόσωποι για την Ένωση Συλλόγων Μουσικών και Καλλιτεχνικών Σχολείων</p>
-<ul>
-  <li>Νικολακάκης Μάνθος</li>
-  <li>Ραγκούσης Αναστάσιος</li>
-  <li>Σταφυλλίδη Μαρία</li>
-</ul>
 
-<p><sub> Στην φωτογραφία ο <a href="https://el.wikipedia.org/wiki/%CE%A4%CE%B6%CE%AC%CE%BD%CE%B3%CE%BA%CE%BF_%CE%A1%CE%AC%CE%B9%CE%BD%CF%87%CE%B1%CF%81%CE%BD%CF%84" title="Τζάνγκο Ράινχαρντ βικιπαιδεια">Django Reinhardt</a> </sub></p>
+https://images.ctfassets.net/4zjnzn055a4v/v5Fr54wzuQU0Qnk0Sqg3H/42ccacd6ab8f5686d4e2034c050d4ac2/Morten_Lindberg_PR_Image_1.jpg?w=1250&fm=jpg
+Η 2L είναι μία δισκογραφική εταιρία από την Νορβηγία με ένα από τα πλέον σύγχρονα και εντυπωσιακά στούντιο στον κόσμο.
+Kατά καιρούς οι ηχογραφήσεις της έχουν βρεθεί υποψήφιες και νικήτριες για διάφορα μουσικά βραβεία ενώ έχει τιμηθεί αρκετές φορές με βραβεία grammy.
+Η ηχογράφηση που παρουσιάζουμε εδώ, έχει γίνει το 2014 στον καθεδρικό της Νορβηγικής πόλης Nidaros και προτάθηκε για το καλύτερο άλμπουμ ήχου Surround το 2015 
+
+![Στιγμιότυπο από την ηχογράφηση](assets/img/choir.webp "Στιγμιότυπο από την ηχογράφηση")
+
+Χρησιμοποιώντας πρωτοποριακές μεθόδους ηχογράφησης και mastering για να αποδοθεί ρεαλιστικά ο όγκος του ήχου της χορωδίας μέσα στον καθεδρικό το αποτέλεσμα μπορεί να χαρακτηριστεί μόνο ως μεγαλειώδες.
+
+Με μεγαλοπρεπή απόδοση από την χορωδία κοριτσιών του καθεδρικού της πόλης Nidaros και τους σολίστες της πόλης του Trondheim, υπό την μαέστρο Anita Brevik – η σύνθεση, εμπνευσμένη από τους γρηγοριανούς εκκλησιαστικούς ψαλμούς, εκφράζει τον μυθικό εσωτερικό διάλογο της Μαρίας μετά την ένδοξη στιγμή που ο άγγελος Γαβριήλ της ανακοινώνει ότι πρόκειται να γίνει η μητέρα του γιου του Θεού. Τα συναισθήματα της χαράς, της ταπεινοφροσύνης, της αφοσίωσης και της τιμής που εμπνέονται στη Μαρία από τα θεϊκά νέα, εναλλάσσονται και αποδίδονται με αριστοτεχνικό τρόπο και αξιοθαύμαστη εκτελεστική αρτιότητα από την ορχήστρα και την χορωδία των μικρών σε ηλικία κοριτσιών.
+
+Συμπερασματικά η ηχογράφηση είναι μία άριστη ακρόαση για τους λάτρεις της μουσικής είτε ακούν είτε όχι αυτό που σήμερα -ομολογουμένως λανθασμένα- αποκαλείται κλασσική μουσική και μία άριστη εισαγωγή στην χορωδιακή ακρόαση.
+
+
+Μπορείτε να προμηθευτείτε το ψηφιακό αρχείο σε διάφορες μορφές (η έκδοση 5.1 συνιστάται ανεπιφύλακτα για όσους έχουν ηχοσύστημα surround) απευθείας από το ψηφιακό κατάστημα της δισκογραφικής [εδώ](https://shop.2l.no/collections/frontpage/products/magnificat-nidarosdomen?variant=39666385780919)
+
+ή να την ακούσετε εδώ: 
+
+- [spotify](https://open.spotify.com/album/15fzAFOBebAi8U1q3rhsnC) (απαιτείται δωρεάν εγγραφή στην υπηρεσία)
+- [tidal](https://tidal.com/) (απαιτείται συνδρομή επί πληρωμή)
+
 
       </article>
 
       
-        <div class="blog-tags">
-          <span>Tags:</span>
-          
-            <a href="/tags#Ανακοινώσεις">Ανακοινώσεις</a>
-          
-            <a href="/tags#Εκλογές">Εκλογές</a>
-          
-        </div>
-      
 
       
-
-      
-        <!-- Check if any share-links are active -->
-
-
-
-
-<section id = "social-share-section">
-  <span class="sr-only">Share: </span>
-
-  
-    <a href="https://twitter.com/intent/tweet?text=%CE%A4%CE%BF+%CE%BD%CE%AD%CE%BF+%CE%94.%CE%A3.+%CF%84%CE%BF%CF%85+%CE%A3%CF%85%CE%BB%CE%BB%CE%BF%CE%B3%CE%BF%CF%85+%CE%B3%CE%BF%CE%BD%CE%AD%CF%89%CE%BD&url=http%3A%2F%2Flocalhost%3A4000%2F2022-10-24-%25CE%25A4%25CE%25BF-%25CE%25BD%25CE%25AD%25CE%25BF-%25CE%2594.%25CE%25A3.-%25CF%2584%25CE%25BF%25CF%2585-%25CE%25A3%25CF%2585%25CE%25BB%25CE%25BB%25CE%25BF%25CE%25B3%25CE%25BF%25CF%2585-%25CE%25B3%25CE%25BF%25CE%25BD%25CE%25AD%25CF%2589%25CE%25BD%2F"
-      class="btn btn-social-icon btn-twitter" title="Share on Twitter">
-      <span class="fab fa-fw fa-twitter" aria-hidden="true"></span>
-      <span class="sr-only">Twitter</span>
-    </a>
-  
-
-  
-    <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Flocalhost%3A4000%2F2022-10-24-%25CE%25A4%25CE%25BF-%25CE%25BD%25CE%25AD%25CE%25BF-%25CE%2594.%25CE%25A3.-%25CF%2584%25CE%25BF%25CF%2585-%25CE%25A3%25CF%2585%25CE%25BB%25CE%25BB%25CE%25BF%25CE%25B3%25CE%25BF%25CF%2585-%25CE%25B3%25CE%25BF%25CE%25BD%25CE%25AD%25CF%2589%25CE%25BD%2F"
-      class="btn btn-social-icon btn-facebook" title="Share on Facebook">
-      <span class="fab fa-fw fa-facebook" aria-hidden="true"></span>
-      <span class="sr-only">Facebook</span>
-    </a>
-  
-
-  
-
-  
-
-  
-
-</section>
-
-
 
       
 
       <ul class="pagination blog-pager">
         
         
-        <li class="page-item next">
-          <a class="page-link" href="/2022-11-06-%CE%A7%CF%81%CE%B9%CF%83%CF%84%CE%BF%CF%85%CE%B3%CE%B5%CE%BD%CE%BD%CE%B9%CE%AC%CF%84%CE%B9%CE%BA%CE%BF-%CF%80%CE%B1%CE%B6%CE%AC%CF%81%CE%B9/" data-toggle="tooltip" data-placement="top" title="Χριστουγεννιάτικο παζάρι">επομενο &rarr;</a>
-        </li>
-        
       </ul>
       
-  
-  
-  
-
-  
-
-
-  
-
-  
-
-    <div class="commentbox"></div>
-    <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
-    <script>commentBox('5746899487293440-proj')</script>
-
-
-
-
 
     </div>
   </div>

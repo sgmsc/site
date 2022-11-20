@@ -32,6 +32,9 @@
 <loc>http://localhost:4000/contact/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/assets/books/dawkins_magic/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/assets/pages/ekloges/</loc>
 </url>
 <url>
@@ -48,6 +51,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/mail/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/music/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/assets/praktika/praktika21/</loc>

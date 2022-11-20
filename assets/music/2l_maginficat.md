@@ -2,7 +2,7 @@
 layout: post
 title: Magnificat
 subtitle: Nidarosdomens jentekor & TrondheimSolistene
-cover-img: /assets/img/music.webp
+cover-img: /assets/img/magn_cover.jpg
 ---
 
 

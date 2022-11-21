@@ -1,9 +1,8 @@
 ---
-layout: post
+layout: page
 title: Magnificat
 subtitle: Nidarosdomens jentekor & TrondheimSolistene
 cover-img: /assets/img/magn_cover.jpg
-comments: tru
 ---
 
 <p style="text-align:center;">

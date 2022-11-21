@@ -22,7 +22,7 @@ cover-img: /assets/img/tatoo_cover.webp
 
 <div class="img-with-text">
 <p style="text-align:center;">
-<img src="https://sgmsc.github.io/site/assets/img/rr_acoustic.webp" alt="Στιγμιότυπο από ηχογράφηση" style="width:580px;height:380px;"></p>
+<img src="https://sgmsc.github.io/site/assets/img/rr_acoustic.webp" alt="Στιγμιότυπο από ηχογράφηση" style="width:580px;height:420px;"></p>
 <p style="text-align:center;"> <em> Στιγμιότυπο από ηχογράφηση. </em> </p>
 </div>
 

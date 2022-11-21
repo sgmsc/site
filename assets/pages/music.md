@@ -5,9 +5,7 @@ subtitle:
 cover-img: /assets/img/music.webp
 ---
 
-<p style="text-align:center;">
- <h3> Μουσικές που μας έκαναν εντύπωση. </h3>
-</p>
+
 
 
 <p style="text-align:center;">

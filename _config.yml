@@ -35,15 +35,13 @@ navbar-links:
     - α' εξαμηνο 2022 (1/2022-10/2022): "/assets/oikonomika/a2022"
     - β' εξαμηνο 2022: "/assets/oikonomika/b2022"
    
-    Διαδικασιες:
-    - Ημερολογιο: "calendar"
-    - Καταστατικο Συλλογου: "/assets/pages/katastatiko" #https://drive.google.com/file/d/1UHG7jWoLmafW7pdrhnkj01W5ZqJ2URdI/view?usp=share_link"
-    - Εκλογικες Διαδικασιες: "/assets/pages/ekloges" 
-    
+    Ημερολογιο: "calendar"
+      
     Επικοινωνια: "contact"
    
     Συνδεσμοι:
-    
+    - Καταστατικο Συλλογου: "/assets/pages/katastatiko" #https://drive.google.com/file/d/1UHG7jWoLmafW7pdrhnkj01W5ZqJ2URdI/view?usp=share_link"
+    - Εκλογικες Διαδικασιες: "/assets/pages/ekloges" 
     - Εγραψαν για το Μουσικο Σχολειο: "/assets/pages/links"
     - Διευθυνση Δευτεροβαθμιας Χανιων: "http://www.didechan.gr/"
     - Κ.Ε.Δ.Α.Σ.Υ Χανιων: "https://blogs.sch.gr/kesychan/"

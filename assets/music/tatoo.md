@@ -10,7 +10,7 @@ cover-img: /assets/img/tatoo_cover.webp
 </p>
 
 
-Γνωστή η Ιρλανδία για την μουσική της παράδοση. Σε πολλούς, γνωστός και ο Rory Gallagher. Ίσως κάποιοι -μεγαλύτεροι- να θυμούνται και την μία και μοναδική <a href="https://www.rockrooster.gr/san-shmera-h-istorikh-synaylia-toy-rory-gallagher-sth-nea-filadelfeia/" target="_blank"> συναυλία του στην Αθήνα το 1981</a>, την πρώτη συναυλία μεγάλου καλλιτέχνη στην Ελλάδα μετά την Δικτατορία. 
+Γνωστή η Ιρλανδία για την μουσική της παράδοση. Σε πολλούς, γνωστός και ο Rory Gallagher. Κάποιοι -μεγαλύτεροι σε ηλικία- ίσως να θυμούνται και την μία και μοναδική <a href="https://www.rockrooster.gr/san-shmera-h-istorikh-synaylia-toy-rory-gallagher-sth-nea-filadelfeia/" target="_blank"> συναυλία του στην Αθήνα το 1981</a>, την πρώτη συναυλία ξένου καλλιτέχνη στην Ελλάδα μετά την Δικτατορία. 
 
 <div class="img-with-text">
 <p style="text-align:center;">
@@ -22,11 +22,11 @@ cover-img: /assets/img/tatoo_cover.webp
 
 <div class="img-with-text">
 <p style="text-align:center;">
-<img src="https://sgmsc.github.io/site/assets/img/rr_acoustic.webp" alt="Στιγμιότυπο από ηχογράφηση" style="width:580px;height:420px;"></p>
+<img src="https://sgmsc.github.io/site/assets/img/rr_acoustic.webp" alt="Στιγμιότυπο από ηχογράφηση" style="width:580px;height:410px;"></p>
 <p style="text-align:center;"> <em> Στιγμιότυπο από ηχογράφηση. </em> </p>
 </div>
 
-Το <b>Tatoo</b>, ο τέταρτος στούντιο δίσκος του, κυκλοφόρησε το 1973 και από πολλούς θεωρείται ο καλύτερος του. Πολυσχιδής και πολύμορφος στο ύφος του, ενσωματώνει επιρροές από τα αγαπημένα μουσικά ιδιώματα του Gallagher. Rock, Blues, Jazz, Boogie Rock, Country, είναι όλες εδώ, αρμονικά δεμένες από το μοναδικό συνθετικό ταλέντο και το έντονα συναισθηματικό παίξιμο αυτού του αυτοδίδακτου βιρτουόζου της κιθάρας.  
+Το <b>Tatoo</b>, ο τέταρτος στούντιο δίσκος του, κυκλοφόρησε το 1973 και από πολλούς θεωρείται ο καλύτερος του. Πολυσχιδής και πολύμορφος, ενσωματώνει επιρροές από τα αγαπημένα μουσικά ιδιώματα του Gallagher. Rock, Blues, Jazz, Boogie Rock, Country είναι όλες εδώ, αρμονικά δεμένες από το μοναδικό συνθετικό ταλέντο και την έντονα συναισθηματική κιθαριστική ερμηνεία αυτού του αυτοδίδακτου βιρτουόζου της κιθάρας.  
 Κορυφή του δίσκου το <em>Million Miles Away</em> με το πιάνο να συνοδεύει τις μελαγχολικές νότες της stratocaster και τους αυτοβιογραφικούς στίχους του Rory.
 
 <p style="text-align:center;">
@@ -35,7 +35,7 @@ cover-img: /assets/img/tatoo_cover.webp
 
 
 <p><strong><em>
-...'Nough talkin' start listening</em></strong></p>
+...'nough talkin' start listening</em></strong></p>
 
 
 Aκούστε διαδiκτυακά εδώ: 
@@ -49,8 +49,8 @@ Aκούστε διαδiκτυακά εδώ:
   <a href="https://tidal.com/" target="_blank">  &nbsp;&nbsp;Tidal (απαιτείται συνδρομή) </a>
 </p>
 
-
+Για τους λάτρεις του βινυλίου,
 <p style="text-align:left;">
   <img src="https://sgmsc.github.io/site/assets/img/discogs_icon.png" alt="Ακούστε στο Spotify" style="float:left;width:26px;height:26px;">
-  <a href="https://www.discogs.com/sell/list?master_id=36245&ev=mb&format=Vinyl&currency=EUR&condition=Mint+%28M%29&ships_from=Greece" target="_blank">  &nbsp;&nbsp;Για τους λάτρεις του βινυλίου </a>
+  <a href="https://www.discogs.com/sell/list?master_id=36245&ev=mb&format=Vinyl&currency=EUR&condition=Mint+%28M%29&ships_from=Greece" target="_blank">  &nbsp;&nbsp; Ο δίσκος βινυλίου από Έλληνες πωλητές στο discogs </a>
 </p>

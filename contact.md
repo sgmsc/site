@@ -24,5 +24,5 @@ subtitle:
 | Παναγιωτόπουλος Κωστής    | +30 694 459 5270      | [syllogosmousikouchanion@gmail.com](mailto:syllogosmousikouchanion@gmail.com) |
 | Προεστάκης Αντώνης        | +30 697 422 8878      | [syllogosmousikouchanion@gmail.com](mailto:syllogosmousikouchanion@gmail.com) |                 
 | Γύπαρη Στέλλα             | +30 697 283 2012      | [syllogosmousikouchanion@gmail.com](mailto:syllogosmousikouchanion@gmail.com)   |
-| Νικολάκης Μάνθος          | +30 697 811 1251      | [syllogosmousikouchanion@gmail.com](mailto:syllogosmousikouchanion@gmail.com) |
+| Νικολακάκης Μάνθος          | +30 697 811 1251      | [syllogosmousikouchanion@gmail.com](mailto:syllogosmousikouchanion@gmail.com) |
 | Κούκιος Νίκος             | +30 697 410 8630    | [syllogosmousikouchanion@gmail.com](mailto:syllogosmousikouchanion@gmail.com)   | 

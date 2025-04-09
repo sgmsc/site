@@ -19,10 +19,10 @@ subtitle:
 
 | Ονοματεπώνυμο Μέλους      | Τηλέφωνο Επικοινωνίας | email                                                       |
 |:--------------------------|:---------------------:|------------------------------------------------------------:|
-| Μπατάκης Διομήδης         | +30 697 664 5137      | [diomidis@batakis.gr](mailto:diomidis@batakis.gr)           |
-| Αγγελάκη Κουκουλάκη Ελένη | +30 694 227 3849      | [elenmayoo@gmail.com](mailto:elenmayoo@gmail.com)           |
-| Κοτσιφάκης Θρασύβουλος    | +30 698 734 6082      | [kotsifakis_th@proton.me](mailto:kotsifakis_th@proton.me)   |
-| Μακρέας Δημήτριος         | +30 697 899 3502      | [dmakreas@yahoo.gr](mailto:dmakreas@yahoo.gr)                      |
-| Σταφυλλίδη Μαρία          | +30 697 099 1015      | [m.stafyllidou@gmail.com](mailto:m.stafyllidou@gmail.com)   |
-| Μαθιουδάκης Ιωάννης       | +30 698 189 2448      | [giannismathiou50@gmail.com](mailto:giannismathiou50@gmail.com) |
-| Ραγκούσης Αναστάσιος        | +30 694 581 8188    | [t.ragoussis@gmail.com](mailto:t.ragoussis@gmail.com)              | 
+| Πασιπουλαρίδης Βαγγέλης   | +30 694 805 7257      | [syllogosmousikouchanion@gmail.com](mailto:syllogosmousikouchanion@gmail.com)   |
+| Σταματάκη Ελένη           | +30 697 266 9598      | [syllogosmousikouchanion@gmail.com](mailto:syllogosmousikouchanion@gmail.com)   |
+| Παναγιωτόπουλος Κωστής    | +30 694 459 5270      | [syllogosmousikouchanion@gmail.com](mailto:syllogosmousikouchanion@gmail.com) |
+| Προεστάκης Αντώνης        | +30 697 422 8878      | [syllogosmousikouchanion@gmail.com](mailto:syllogosmousikouchanion@gmail.com) |                 
+| Γύπαρη Στέλλα             | +30 697 283 2012      | [syllogosmousikouchanion@gmail.com](mailto:syllogosmousikouchanion@gmail.com)   |
+| Νικολάκης Μάνθος          | +30 697 811 1251      | [syllogosmousikouchanion@gmail.com](mailto:syllogosmousikouchanion@gmail.com) |
+| Κούκιος Νίκος             | +30 697 410 8630    | [syllogosmousikouchanion@gmail.com](mailto:syllogosmousikouchanion@gmail.com)   | 

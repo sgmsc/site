@@ -13,7 +13,6 @@ author: Δημιουργήθηκε με εργαλεία ανοικτού, ελ�
 # --- List of links in the navigation bar --- #
 ###############################################
 
-
 navbar-links:
     Μητρωο Διαθεσιμων Μουσικων Οργανων: "/assets/pages/reg"
     
@@ -250,4 +249,3 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-

@@ -2,7 +2,7 @@
 layout: post
 title: "BACK TO BASE vol. 5 με ΤΑΦ ΛΑΘΟΣ & Ravita Brando"
 subtitle: "Συναυλία θεσμός από το 15μελές και τον Σύλλογο Γονέων Μουσικού Σχολείου Χανίων"
-cover-img: "/assets/img/8cf3cf9b-1f0d-46de-8756-ce5e77583585.jpeg" # Προσάρμοσε εάν έχεις αφίσα!
+cover-img: "/assets/img/back-base-vol-5.jpg" # Προσάρμοσε εάν έχεις αφίσα!
 date: 2024-07-12
 tags: [συναυλία, μουσική, χανιά, σχολείο, εκδηλώσεις]
 ---
